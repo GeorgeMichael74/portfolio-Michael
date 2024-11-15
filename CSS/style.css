@@ -488,6 +488,26 @@
       }
   }
 
+  @media (max-width: 1120px) {
+    .header h2 {
+        font-size: 22px;
+    }
+    .navbar a{
+        font-size: 1.5rem;
+    }
+    .button {
+        padding: 0.5rem 1rem;
+    }
+    .leistungen-container .box {
+        flex: 1 1 10rem;
+        background: var(--backgroundColor-2);
+        padding: 3rem 2rem 4rem;
+        max-width: 25%;
+        max-height: 100%;
+        
+    }
+
+  }
   @media (max-width: 991px) {
 
       /*medium devices and small devices*/
