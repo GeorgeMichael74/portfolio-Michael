@@ -66,20 +66,6 @@ h2 {
    font-size: 4.8rem;
 }
 
-/* nav {
-    padding-top: 2.8rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
-/* .navbar ul {margin-left: 30rem; margin-right: 3rem;} */
-/* .navbar{
-    list-style-type: none;
-    display: inline-block;
-    margin: 0.8rem 1.1rem;
-} */
 .navbar a {
    font-size: 1.6rem;
    color: var(--lightColor);
